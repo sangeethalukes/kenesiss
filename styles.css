@@ -58,7 +58,7 @@ nav ul li a:hover {
   
   /* Default background image */
   .bgcolor {
-    background-image: url(assets/backkk.png) ; /* Path to default background image */
+    background-image: url(backkk.png) ; /* Path to default background image */
     background-size: cover;
     
   }
@@ -169,7 +169,7 @@ h2 {
     left: 0;
     right: 0;
     bottom: 0;
-    background: url('assets/Your%20paragraph%20text.png');
+    background: url('Your%20paragraph%20text.png');
     background-size: cover;
     opacity: 0.5;  /* Adjust the opacity of the background image */
     z-index: -1;  /* Place it behind the content */
